@@ -11,10 +11,7 @@ using Microsoft.Extensions.Logging;
 namespace Demo_Aspnetcore
 {
     /// <summary>
-    /// ammend a commit 1
-    /// ammend a commit 2
-    /// change original repogit
-    /// new push
+    /// Program
     /// </summary>
     public class Program
     {
@@ -31,5 +28,11 @@ namespace Demo_Aspnetcore
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
+
+        public static void Test()
+        {
+
+        }
+
     }
 }
