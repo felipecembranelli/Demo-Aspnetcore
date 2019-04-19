@@ -31,7 +31,7 @@ namespace Demo_Aspnetcore
 
         public static void Test()
         {
-
+            // hot fix 1
         }
 
     }
