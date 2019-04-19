@@ -36,7 +36,7 @@ namespace Demo_Aspnetcore
 
         public static void Newfeature1()
         {
-
+            // commit emergencial
         }
 
         public static void Newfeature_SCM1237()
@@ -44,6 +44,11 @@ namespace Demo_Aspnetcore
 
         }
 
+        public static void Newfeature_Dev()
+        {
+
+        }
+    }
     }
 }
 
