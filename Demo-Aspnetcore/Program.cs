@@ -34,5 +34,10 @@ namespace Demo_Aspnetcore
 
         }
 
+        public static void Newfeature1()
+        {
+
+        }
+
     }
 }
